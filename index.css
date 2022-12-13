@@ -1,0 +1,41 @@
+body{
+    background-color: azure;
+}
+
+.body img{
+    margin-left: 222px;
+ 
+}
+
+.volei {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 0, 0.61);
+    margin-top: -1044px;
+    height: 950px;
+    width: 910px;
+    margin-left: 908px;
+    flex-direction: column;
+}
+
+.login{
+    text-align: center;
+    font: 12pt Arial;
+}
+
+.email{
+    font: 12pt Arial;
+}
+
+.senha{
+    font: 12pt Arial;
+}
+
+.botao{
+    font: 12pt Arial;
+}
+
+.registrar{
+    font: 12pt Arial;
+}
